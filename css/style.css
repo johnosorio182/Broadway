@@ -34,3 +34,9 @@ ul {
   color: white;
   background-image: url("../resources/images/the-flatiron-building.png");
 }
+
+.end {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
